@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://raw.githubusercontent.com/rest-ia/rest-ia/main/247365.jpeg">
+<img src="https://raw.githubusercontent.com/rest-ia/rest-ia/main/247365.png">
 <!---
 rest-ia/rest-ia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
