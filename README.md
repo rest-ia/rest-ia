@@ -9,7 +9,7 @@ something
 - 📫 How to reach me ...
 
 Twitter (Yes, Twitter)
-https://twitter.com/rest_ia_
+<a href="https://twitter.com/rest_ia_"></a>
 
 Facebook
 https://www.fb.com/restauraia
