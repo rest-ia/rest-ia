@@ -14,6 +14,9 @@ https://twitter.com/rest_ia_
 Facebook
 https://www.fb.com/restauraia
 
+YouTube
+https://www.youtube.com/@restauraia/
+
 TikTok
 https://www.tiktok.com/@rest_ia_
   
