@@ -10,14 +10,11 @@ something
 
 [Twitter](https://twitter.com/rest_ia_)
 
-Facebook
-https://www.fb.com/restauraia
+[Facebook](https://www.fb.com/restauraia)
 
-YouTube
-https://www.youtube.com/@restauraia/
+[YouTube](https://www.youtube.com/@restauraia/)
 
-TikTok
-https://www.tiktok.com/@rest_ia_
+[TikTok](https://www.tiktok.com/@rest_ia_)
   
 - 😄 Pronouns: ... Henry Cavill
 - ⚡ Fun fact: ... My whole life is a joke
