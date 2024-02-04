@@ -8,8 +8,7 @@ I like Watchmen and V for Vendetta
 something
 - 📫 How to reach me ...
 
-[Twitter] (Yes, Twitter)
-(https://twitter.com/rest_ia_)
+[Twitter](https://twitter.com/rest_ia_)
 
 Facebook
 https://www.fb.com/restauraia
