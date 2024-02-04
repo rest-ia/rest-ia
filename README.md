@@ -1,10 +1,22 @@
 - 👋 Hi, I’m @rest-ia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+I'm a disaster
+
+- 👀 I’m interested in ... Movies?
+I like Watchmen and V for Vendetta
+- 🌱 I’m currently learning English, Russian and the language of love 😴
+- 💞️ I’m looking to collaborate on ..
+something
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+Twitter (Yes, Twitter)
+https://twitter.com/rest_ia_
+Facebook
+https://www.fb.com/restauraia
+TikTok
+https://www.tiktok.com/@rest_ia_
+  
+- 😄 Pronouns: ... Henry Cavill
+- ⚡ Fun fact: ... My whole life is a joke
 
 <img src="https://raw.githubusercontent.com/rest-ia/rest-ia/main/247365.png">
 <!---
